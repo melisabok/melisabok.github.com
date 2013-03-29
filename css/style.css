@@ -81,7 +81,7 @@ body, button, input, select, textarea { font-family: sans-serif; color: #222; }
   	transition:height 0.2s ease-out;
 }
 /*Set height of the slide*/
-.vertical :target{ height:350px; width:97%; }
+.vertical :target{ height:400px; width:97%; }
 
 .vertical section h2 { position:relative; left:0; top:-15px; }
 
